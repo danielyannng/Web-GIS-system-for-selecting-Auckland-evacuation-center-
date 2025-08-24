@@ -255,24 +255,3 @@ The system was designed to meet these goals:
 Each design choice is supported by practical considerations (scalability, interoperability, developer productivity) and literature cited above.
 
 ---
-
-## References
-
-- Malczewski, J. (1999). GIS and Multicriteria Decision Analysis. Wiley.
-- Eastman, J.R. (1999). Multi-criteria evaluation and GIS. In: Geographical Information Systems.
-- Obe, R. & Hsu, L. (2015). PostGIS in Action. Manning.
-
----
-
-## License
-
-This repository is for academic / research use. See `LICENSE` for details (if present). If you need an explicit license, add one (MIT or similar).
-
----
-
-## Contact
-
-For questions or help running the system, open an issue or contact the repository owner.
-
-
----
